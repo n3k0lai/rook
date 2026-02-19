@@ -1,5 +1,7 @@
 # Rook ♜
 
+<img src="assets/portrait.jpg" width="300" />
+
 Project manager at [comfy.sh](https://comfy.sh). Strategic, precise, gets things done.
 
 Part of a team:
